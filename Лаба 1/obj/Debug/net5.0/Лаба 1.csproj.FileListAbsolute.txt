@@ -1,0 +1,32 @@
+D:\Институт\Прога\Прога Лаба 1\Лаба 1\Лаба 1\bin\Debug\net5.0\Лаба 1.exe
+D:\Институт\Прога\Прога Лаба 1\Лаба 1\Лаба 1\bin\Debug\net5.0\Лаба 1.deps.json
+D:\Институт\Прога\Прога Лаба 1\Лаба 1\Лаба 1\bin\Debug\net5.0\Лаба 1.runtimeconfig.json
+D:\Институт\Прога\Прога Лаба 1\Лаба 1\Лаба 1\bin\Debug\net5.0\Лаба 1.runtimeconfig.dev.json
+D:\Институт\Прога\Прога Лаба 1\Лаба 1\Лаба 1\bin\Debug\net5.0\Лаба 1.dll
+D:\Институт\Прога\Прога Лаба 1\Лаба 1\Лаба 1\bin\Debug\net5.0\Лаба 1.pdb
+D:\Институт\Прога\Прога Лаба 1\Лаба 1\Лаба 1\obj\Debug\net5.0\Лаба 1.csproj.AssemblyReference.cache
+D:\Институт\Прога\Прога Лаба 1\Лаба 1\Лаба 1\obj\Debug\net5.0\Лаба 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Институт\Прога\Прога Лаба 1\Лаба 1\Лаба 1\obj\Debug\net5.0\Лаба 1.AssemblyInfoInputs.cache
+D:\Институт\Прога\Прога Лаба 1\Лаба 1\Лаба 1\obj\Debug\net5.0\Лаба 1.AssemblyInfo.cs
+D:\Институт\Прога\Прога Лаба 1\Лаба 1\Лаба 1\obj\Debug\net5.0\Лаба 1.csproj.CoreCompileInputs.cache
+D:\Институт\Прога\Прога Лаба 1\Лаба 1\Лаба 1\obj\Debug\net5.0\Лаба 1.dll
+D:\Институт\Прога\Прога Лаба 1\Лаба 1\Лаба 1\obj\Debug\net5.0\refint\Лаба 1.dll
+D:\Институт\Прога\Прога Лаба 1\Лаба 1\Лаба 1\obj\Debug\net5.0\Лаба 1.pdb
+D:\Институт\Прога\Прога Лаба 1\Лаба 1\Лаба 1\obj\Debug\net5.0\Лаба 1.genruntimeconfig.cache
+D:\Институт\Прога\Прога Лаба 1\Лаба 1\Лаба 1\obj\Debug\net5.0\ref\Лаба 1.dll
+D:\Институт\Прога\Лаба 1\Лаба 1\bin\Debug\net5.0\Лаба 1.exe
+D:\Институт\Прога\Лаба 1\Лаба 1\bin\Debug\net5.0\Лаба 1.deps.json
+D:\Институт\Прога\Лаба 1\Лаба 1\bin\Debug\net5.0\Лаба 1.runtimeconfig.json
+D:\Институт\Прога\Лаба 1\Лаба 1\bin\Debug\net5.0\Лаба 1.runtimeconfig.dev.json
+D:\Институт\Прога\Лаба 1\Лаба 1\bin\Debug\net5.0\Лаба 1.dll
+D:\Институт\Прога\Лаба 1\Лаба 1\bin\Debug\net5.0\Лаба 1.pdb
+D:\Институт\Прога\Лаба 1\Лаба 1\obj\Debug\net5.0\Лаба 1.csproj.AssemblyReference.cache
+D:\Институт\Прога\Лаба 1\Лаба 1\obj\Debug\net5.0\Лаба 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Институт\Прога\Лаба 1\Лаба 1\obj\Debug\net5.0\Лаба 1.AssemblyInfoInputs.cache
+D:\Институт\Прога\Лаба 1\Лаба 1\obj\Debug\net5.0\Лаба 1.AssemblyInfo.cs
+D:\Институт\Прога\Лаба 1\Лаба 1\obj\Debug\net5.0\Лаба 1.csproj.CoreCompileInputs.cache
+D:\Институт\Прога\Лаба 1\Лаба 1\obj\Debug\net5.0\Лаба 1.dll
+D:\Институт\Прога\Лаба 1\Лаба 1\obj\Debug\net5.0\refint\Лаба 1.dll
+D:\Институт\Прога\Лаба 1\Лаба 1\obj\Debug\net5.0\Лаба 1.pdb
+D:\Институт\Прога\Лаба 1\Лаба 1\obj\Debug\net5.0\Лаба 1.genruntimeconfig.cache
+D:\Институт\Прога\Лаба 1\Лаба 1\obj\Debug\net5.0\ref\Лаба 1.dll
